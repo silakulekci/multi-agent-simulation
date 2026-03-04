@@ -3,7 +3,7 @@
 
 > Notes prepared by Sila — 04 March 2025
 
-![Simulation Demo](simulation.gif)
+
 
 ---
 
